@@ -47,4 +47,6 @@ curl -s -X GET https://raw.githubusercontent.com/FlickGMD/AutoBSPWM/refs/heads/m
 
 Mensajes de ayuda
 
+https://github.com/user-attachments/assets/72d25de0-8d6d-499d-a65f-7f1c84437988
+
 
