@@ -44,3 +44,7 @@ git clone https://github.com/FlickGMD/NvimDotfiles ~/.config/nvim
 ```bash
 curl -s -X GET https://raw.githubusercontent.com/FlickGMD/AutoBSPWM/refs/heads/main/nvim_upload.sh | bash
 ```
+
+Mensajes de ayuda
+
+![Demo](./.videos/output.gif)
