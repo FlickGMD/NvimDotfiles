@@ -1,5 +1,6 @@
-# NvChad Dotfiles.
 <div align = center>
+# NvChad Dotfiles.
+
 ![image](./.img/nvimchad_fotfiles.png)
 
 
