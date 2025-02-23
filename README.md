@@ -1,16 +1,5 @@
-&ensp;[<kbd> <br> Install <br> </kbd>](#installation)&ensp;  
-&ensp;[<kbd> <br> Features <br> </kbd>](#-features)&ensp;  
-&ensp;[<kbd> <br> Themes <br> </kbd>](#-the-themes)&ensp;  
-&ensp;[<kbd> <br> Keybindings <br> </kbd>](#every-useful-keybindigs-to-know)&ensp;  
-&ensp;[<kbd> <br> Wiki <br> </kbd>](https://github.com/gh0stzk/dotfiles/wiki)&ensp;  
-<br><br></div>  
 
-https://github.com/user-attachments/assets/3eaaae12-04dc-4a9b-8c91-139f85f5fb9e
-
-
-
-
-### NvChad Dotfiles.
+# NvChad Dotfiles.
 
 Original Repository from [NvChad](https://github.com/NvChad/starter) 
 Thanks to [saboru](https://github.com/kokaito-git) for give me his configs from [NvChad](https://github.com/NvChad/starter)
