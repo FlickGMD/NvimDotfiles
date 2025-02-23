@@ -1,7 +1,7 @@
 
 # NvChad Dotfiles.
 
-![image](https://github.com/user-attachments/assets/2236c7f0-89d4-44b8-b925-842266666409)
+![image](./.img/nvimchad_fotfiles.png)
 
 
 Original Repository from [NvChad](https://github.com/NvChad/starter) 
