@@ -1,6 +1,9 @@
 
 # NvChad Dotfiles.
 
+![image](https://github.com/user-attachments/assets/2236c7f0-89d4-44b8-b925-842266666409)
+
+
 Original Repository from [NvChad](https://github.com/NvChad/starter) 
 Thanks to [saboru](https://github.com/kokaito-git) for give me his configs from [NvChad](https://github.com/NvChad/starter)
 
