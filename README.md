@@ -1,6 +1,5 @@
-
 # NvChad Dotfiles.
-
+<div align = center>
 ![image](./.img/nvimchad_fotfiles.png)
 
 
