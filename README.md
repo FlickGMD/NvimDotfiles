@@ -1,11 +1,11 @@
-
 <p align="center">
-  <a href="#install" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 5px;">Install</a>
-  <a href="#features" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 5px;">Features</a>
-  <a href="#themes" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 5px;">Themes</a>
-  <a href="#keybindings" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 5px;">Keybindings</a>
-  <a href="#wiki" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 5px;">Wiki</a>
+  <a href="#install" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 8px; background-color: black;">Install</a>
+  <a href="#features" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 8px; background-color: black;">Features</a>
+  <a href="#themes" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 8px; background-color: black;">Themes</a>
+  <a href="#keybindings" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 8px; background-color: black;">Keybindings</a>
+  <a href="#wiki" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 8px; background-color: black;">Wiki</a>
 </p>
+
 
 
 
