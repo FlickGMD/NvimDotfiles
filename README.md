@@ -1,10 +1,11 @@
-<p align="center">
-  <a href="#install" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 8px; background-color: black;">Install</a>
-  <a href="#features" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 8px; background-color: black;">Features</a>
-  <a href="#themes" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 8px; background-color: black;">Themes</a>
-  <a href="#keybindings" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 8px; background-color: black;">Keybindings</a>
-  <a href="#wiki" style="border: 1px solid white; padding: 8px 12px; margin: 5px; display: inline-block; text-decoration: none; color: white; border-radius: 8px; background-color: black;">Wiki</a>
-</p>
+&ensp;[<kbd> <br> Install <br> </kbd>](#installation)&ensp;  
+&ensp;[<kbd> <br> Features <br> </kbd>](#-features)&ensp;  
+&ensp;[<kbd> <br> Themes <br> </kbd>](#-the-themes)&ensp;  
+&ensp;[<kbd> <br> Keybindings <br> </kbd>](#every-useful-keybindigs-to-know)&ensp;  
+&ensp;[<kbd> <br> Wiki <br> </kbd>](https://github.com/gh0stzk/dotfiles/wiki)&ensp;  
+<br><br></div>  
+
+https://github.com/user-attachments/assets/3eaaae12-04dc-4a9b-8c91-139f85f5fb9e
 
 
 
